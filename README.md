@@ -9,7 +9,10 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="70px">
 </p>
 
-<h3><b>Preview: 💻📱</b></h3>
+<h3><b>Preview: 📱💻</b></h3>
 <br>
-<img src="">
-<img src="">
+
+<p>
+<img src="https://raw.githubusercontent.com/FelipeCosmi/Wide-Coverage-Location-Responsividade/2c50eb2cd9de5997d645371391fd96bc03ebc9bc/imgs/Phone-2.png" width="500px">
+<img src="https://raw.githubusercontent.com/FelipeCosmi/Wide-Coverage-Location-Responsividade/2c50eb2cd9de5997d645371391fd96bc03ebc9bc/imgs/Desktop-1.png" width="500px">
+</p>
