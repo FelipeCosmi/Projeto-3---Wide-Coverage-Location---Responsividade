@@ -13,6 +13,6 @@
 <br>
 
 <p>
-<img src="https://raw.githubusercontent.com/FelipeCosmi/Wide-Coverage-Location-Responsividade/2c50eb2cd9de5997d645371391fd96bc03ebc9bc/imgs/Phone-2.png" width="500px">
-<img src="https://raw.githubusercontent.com/FelipeCosmi/Wide-Coverage-Location-Responsividade/2c50eb2cd9de5997d645371391fd96bc03ebc9bc/imgs/Desktop-1.png" width="500px">
+<img src="https://raw.githubusercontent.com/FelipeCosmi/Wide-Coverage-Location-Responsividade/2c50eb2cd9de5997d645371391fd96bc03ebc9bc/imgs/Phone-2.png" width="300px">
+<img src="https://raw.githubusercontent.com/FelipeCosmi/Wide-Coverage-Location-Responsividade/2c50eb2cd9de5997d645371391fd96bc03ebc9bc/imgs/Desktop-1.png" width="300px">
 </p>
